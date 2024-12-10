@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/todos
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InBla2thIiwiaWQiOiI2NjE1MTI4MTUxNGIwMDZmMTBlNmY3NDgiLCJpYXQiOjE3MTI2NTgwOTR9.aAE78KDOf9T64lTY0NXf8a1GDxybatAsWUfmuHXJ43w
+
+{
+      "task": "Tehtävä 3",
+      "check": false
+    }
